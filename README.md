@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 9 |
+| 29 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
@@ -74,6 +74,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
+| 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.cpp) |
 | 1175A | [From Hero to Zero](https://codeforces.com/contest/1175/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/1175/A%20-%20From%20Hero%20to%20Zero/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/iharshilgupta/Codeforces-solutions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 
